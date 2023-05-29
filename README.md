@@ -1,4 +1,4 @@
-#Exploratory Data Analysis Project - House market data
+# Exploratory Data Analysis Project - House market data
 
 This is a project to analyze the Seattle house market in the Data Science Bootcamp of Neue Fische.
 In this project we will use our python skills to get an overview of the dataset, perform data cleaning and intensive exploratory data analysis for our client. In the end we will present our findings in a stakeholder presentation.
