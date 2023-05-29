@@ -1,21 +1,8 @@
 # Data Science - EDA Project
 
-Project to analyze the Seattle house market in the Data Science  Bootcamp of Neue Fische.
-
-## Requirements
-
-* altair: 4.1.0
-* jupyterlab: 3.2.6
-* ipywidgets: 7.6.5
-* matplotlib: 3.5.1
-* pandas: 1.3.5
-* jupyterlab-dash: 0.1.0a3
-* seaborn: 0.11.1
-* python-dotenv: 0.19.0
-* psycopg2: 2.9.3
-* SQLAlchemy: 1.4.25
-* missingno: 0.5.1
-
+This is a project to analyze the Seattle house market in the Data Science Bootcamp of Neue Fische.
+In this project we will use our python skills to get an overview of the dataset, perform data cleaning and intensive exploratory data analysis for our client. In the end we will present our findings in a stakeholder presentation.
+The exploratory data analysis provides immediate value to the clients, as it provides information about how various features are influencing the target variable (in this case the prices of houses). Furthermore the data visualization generated in this stage can be of use in presentations. A good EDA is the foundation step of further modeling stages and also has direct impact on the quality of models produced later on.
 
 ### Environment
 
@@ -38,9 +25,9 @@ pip install -r requirements.txt
 
 ## Client Information
  * Nicole Johnson (Buyer)
- * Lively, central neighborhood
+ * looking for a lively, central neighborhood
  * middle price range
- * right timing (within a year)
+ * want to know about the right timing to buy (within a year)
 
 
  
